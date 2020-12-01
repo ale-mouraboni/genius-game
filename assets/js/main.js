@@ -88,6 +88,7 @@ let gameOver = () => {
     playGame()
 }
 
+// função de início de jogo
 let playGame = () => {
     alert(`Bem vindo ao Gênesis! Iniciando novo jogo!`)
     score = 0
@@ -95,9 +96,11 @@ let playGame = () => {
     nextLevel()
 }
 
-green.addEventListener('click', click(0))
-red.addEventListener('click', click(1))
-yellow.addEventListener('click', click(2))
-blue.addEventListener('click', click(3))
+// eventos de click para as cores
+green.onclick = () => click(0)
+red.onclick = () => click (1)
+yellow.onclick = () => click (2)
+blue.onclick = () => click (3)
 
+// início do jogo
 playGame()
