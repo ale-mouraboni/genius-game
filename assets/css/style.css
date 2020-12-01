@@ -13,7 +13,7 @@ body {
 
 .genius {
     display: grid;
-    grid-template-areas: 'green red yellow blue';
+    grid-template-areas: 'green red' 'yellow blue';
     grid-gap: 10px;
     border: 1px solid white;
     background-color: white;
@@ -21,3 +21,4 @@ body {
     width: 620px;
     height: 620px;
 }
+
