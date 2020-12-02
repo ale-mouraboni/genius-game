@@ -4,7 +4,7 @@
 <img src="https://github.com/ale-mouraboni/genius-game/blob/main/assets/readme/genius-game.gif">
   </p>
 
-<p align="center">Esse projeto foi desenvolvido com base no Bootcamp <strong> JavaScript Game Developer</strong> na plataforma <a href="https://digitalinnovation.one/">Digital Innovation One</a></p>
+<p align="center">Esse projeto foi desenvolvido com base no Bootcamp <strong> JavaScript Game Developer</strong> da plataforma <a href="https://digitalinnovation.one/">Digital Innovation One.</a></p>
 </br>
 <h2><g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">🌐</g-emoji>  Tecnologias</h2>
 <p>Esse projeto foi desenvolvido usando as seguintes tecnologias:</p>
