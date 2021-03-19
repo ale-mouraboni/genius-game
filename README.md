@@ -2,10 +2,17 @@
 ![Demo](readme/demo.png)
 
 ## Menu
+* [Tecnologias](#Tecnologias)
 * [Como Utilizar](#Como-Utilizar)
 * [About](#About)
 * [Link do Curso](#Link-do-Curso)
 * [License](#License)
+
+## Tecnologias
+Projeto desenvolvido com as seguintes tecnologias:
+* HTML5
+* CSS3
+* JavaScript
 
 ## Como Utilizar
 ```
